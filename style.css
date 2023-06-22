@@ -179,3 +179,18 @@ nav.logo{
     border-radius: 12px;
 
  }
+
+ /* footer */
+
+ .footer{
+    background-color: #1F2937;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 32px 0px;
+ }
+ .footer p{
+    font-size: 18px;
+    color: #e5e7eb;
+ }
